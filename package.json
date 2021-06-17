@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.19.0",
+    "clarifai": "^2.9.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.95.6",
+    "node": "^16.1.0",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  },
+  "name": "facedetect-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": "14.x"
+  }
+}
